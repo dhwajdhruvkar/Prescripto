@@ -78,7 +78,3 @@ CLOUDINARY_API_SECRET=...
 
 - If ports conflict, edit the Vite configs or set the `PORT` env for the backend.
 - To run each part concurrently you can open separate terminals for each folder.
-
-## Want me to commit this?
-
-If you want I can commit the README for you, or expand it with screenshots, API endpoints, or deploy instructions.
